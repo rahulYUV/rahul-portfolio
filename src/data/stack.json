@@ -1,0 +1,21 @@
+{
+  "categories": [
+    {
+      "name": "Agents",
+      "items": [
+        {
+          "name": "Caddy",
+          "url": "caddy.app",
+          "description": "AI agent",
+          "favicon": "https://www.google.com/s2/favicons?domain=caddy.app&sz=64"
+        },
+        {
+          "name": "Hermes",
+          "url": "hermes-agent.nousresearch.com",
+          "description": "Nous Research agent",
+          "favicon": "https://www.google.com/s2/favicons?domain=nousresearch.com&sz=64"
+        }
+      ]
+    }
+  ]
+}
